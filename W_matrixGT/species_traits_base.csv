@@ -1,0 +1,11 @@
+species_id,species_name,growth_form,height_cm_mean,height_cm_min,height_cm_max,canopy_diam_cm,root_depth_class,root_depth_cm,root_density_class,shade_tolerance
+AG_LEC,Agave lechuguilla,rosette,40,30,50,50,shallow,20,medium,low
+AG_SAL,Agave salmiana,rosette,40,30,50,300,shallow,30,dense,low
+AG_SCB,Agave scabra,rosette,20,15,25,140,shallow,30,medium,low
+AG_STR,Agave striata,rosette,25,20,30,80,shallow,25,medium,low
+OP_CAN,Opuntia cantabrigiensis,cactus,25,20,30,50,shallow,30,medium,low
+OP_ENG,Opuntia engelmannii,cactus,25,20,30,200,shallow,30,dense,medium
+OP_ROB,Opuntia robusta,cactus,25,20,30,250,shallow,15,dense,low
+OP_STR,Opuntia streptacantha,arborescent,27.5,20,35,300,shallow,20,dense,low
+PR_LAE,Prosopis laevigata,tree,27.5,25,30,500,deep,1500,dense,low
+YU_FIL,Yucca filifera,arborescent,25,20,30,300,deep,900,dense,low
