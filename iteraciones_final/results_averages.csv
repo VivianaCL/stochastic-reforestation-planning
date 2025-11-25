@@ -1,0 +1,2 @@
+metric,feasible_runs,fitness,total_existing,total_planted,exist_AG_LEC,new_AG_LEC,exist_AG_SAL,new_AG_SAL,exist_AG_SCB,new_AG_SCB,exist_AG_STR,new_AG_STR,exist_OP_CAN,new_OP_CAN,exist_OP_ENG,new_OP_ENG,exist_OP_ROB,new_OP_ROB,exist_OP_STR,new_OP_STR,exist_PR_LAE,new_PR_LAE,exist_YU_FIL,new_YU_FIL
+mean_over_feasible,1000,694.0903548387096,71.314,553.686,4.532,35.468,20.736,165.264,4.588,35.412,4.395,35.605,5.519,41.481,4.533,31.467,8.162,60.838,6.907,54.093,9.195,71.805,2.747,22.253
